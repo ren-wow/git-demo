@@ -1,3 +1,6 @@
 hello world!123
-hello world!abc
+<<<<<<< HEAD
+hello world!456
+=======
 hello world!123
+>>>>>>> hot-fix
